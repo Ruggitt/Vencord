@@ -14,8 +14,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto');
 :root {
 --accent: 50,131,207;
---message-padding: 10px;
---message-spacing: 10px;
+--message-padding: 4px;
+--message-spacing: 6px;
 --font: 'Roboto';
 --rs-small-spacing: 2px;
 --rs-medium-spacing: 3px;
